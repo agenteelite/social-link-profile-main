@@ -1,0 +1,79 @@
+h2 {
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    margin: 2px;
+}
+
+.location {
+    text-align: center;
+    color: hsl(75, 94%, 57%);
+    margin: 10px;
+}
+
+p {
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    margin: 25px;
+}
+
+button {
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+    width: 100%;
+    padding: 14px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family:'Inter', sans-serif;
+}
+
+button:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: hsl(0, 0%, 20%);
+    font-family:'Inter', sans-serif;
+
+}
+
+body {
+    background-color: hsl(0, 0%, 8%);
+    font-family:'Inter', sans-serif;
+    font-size: 14px;
+}
+
+.profile-card {
+    max-width: 350px;
+    margin: 150px auto;
+    padding: 30px 24px;
+    background-color: hsl(0, 0%, 12%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius: 25px;
+    box-shadow: 0 19px 39px rgba(0, 0, 0, 0.35);
+    text-align: center;
+}
+
+.profile-card img {
+    text-align: center;
+    display: block;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto 20px;
+    object-fit: cover;
+}
+
+/*=============================================*/
+@media (max-width: 375px) {
+    .profile-card {
+        margin: 50px auto;
+    }
+}
+
