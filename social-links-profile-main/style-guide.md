@@ -1,33 +1,31 @@
-# Guía de estilo de interfaz de usuario
+# UI style guide
 
-## Diseño
+## Design
 
-Los diseños fueron creados con los siguientes anchos:
+The designs were created at the following widths:
 
-- Móvil: 375px
-- Escritorio: 1440px
+- Mobile: 375px
+- Desktop: 1440px
 
-> 💡 Estos son solo los tamaños de diseño. Asegúrese de que el contenido sea responsivo y cumpla con los requisitos WCAG probando la gama completa de tamaños de pantalla, desde 320 px hasta pantallas grandes.
+> 💡 These are only the design sizes. Make sure the content is responsive and meets WCAG requirements by testing the full range of screen sizes, from 320px to large screens.
 
-## Colores
+## Colors
 
-- Verde: hsl(75, 94%, 57%)
+- Green: hsl(75, 94%, 57%)
+- White: hsl(0, 0%, 100%)
+- Gray 700: hsl(0, 0%, 20%)
+- Gray 800: hsl(0, 0%, 12%)
+- Gray 900: hsl(0, 0%, 8%)
 
-- Blanco: hsl(0, 0%, 100%)
+## Typography
 
-- Gris 700: hsl(0, 0%, 20%)
-- Gris 800: hsl(0, 0%, 12%)
-- Gris 900: hsl(0, 0%, 8%)
+### Body copy
 
-## Tipografía
+- Font size (paragraph): 14px
 
-### Copia del cuerpo
+### Font
 
-- Tamaño de fuente (párrafo): 14px
+- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Weights: 400, 600, 700
 
-### Fuente
-
-- Familia: [Inter](https://fonts.google.com/specimen/Inter)
-- Pesos: 400, 600, 700
-
-> 💎 [Actualice a Pro](https://www.frontendmentor.io/pro?ref=style-guide) para acceder a los archivos de diseño, ver todos los detalles del diseño y obtener experiencia práctica utilizando un flujo de trabajo profesional con herramientas como Figma. El archivo de diseño para este desafío también incluye un sistema de diseño básico para ayudarlo a crear una solución más precisa y más rápida.
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) to access design files, see all design details, and gain hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.

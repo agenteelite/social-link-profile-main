@@ -1,31 +1,31 @@
-# Frontend Mentor - Solución de perfil de enlaces sociales
+# Frontend Mentor - Social links profile solution
 
-Esta es una solución al [desafío del perfil de enlaces sociales en Frontend Mentor] (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas. 
+This is a solution to the [Frontend Mentor social links profile challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help improve your coding skills by building realistic projects.
 
-## Tabla de contenidos
+## Table of contents
 
-- [Resumen](#resumen)
-  - [El desafío](#el-desafío)
-  - [Captura de pantalla](#captura de pantalla)
-  - [Enlaces](#enlaces)
-- [Mi proceso](#mi-proceso)
-  - [Construido con](#construido con)
-  - [Lo que aprendí](#lo-que-aprendí)
-  - [Desarrollo continuo](#desarrollo-continuo)
-  - [Colaboración con IA](#ai-collaboration)
-- [Autor](#autor)
-- [Agradecimientos](#agradecimientos)
+- [Summary](#summary)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [AI collaboration](#ai-collaboration)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 
-## Descripción general
+## Overview
 
-### El desafío
+### The challenge
 
-Los usuarios deberían poder:
+Users should be able to:
 
-- Ver estados de desplazamiento y enfoque para todos los elementos interactivos en la página
+- See hover and focus states for all interactive elements on the page
 
-### Captura de pantalla
+### Screenshot
 
 ![alt text](image.png)
 
@@ -33,57 +33,58 @@ Los usuarios deberían poder:
 
 ![alt text](image-2.png)
 
-### Enlaces
+### Links
 
-- URL de la solución: [Agregue la URL de la solución aquí](https://your-solution-url.com)
+- Solution URL: [Add your solution URL here](https://your-solution-url.com)
 
-## Mi proceso
+## My process
 
-### Construido con
+### Built with
 
-- Marcado semántico HTML5
-- CSS personalizado
-- Flujo de trabajo móvil primero
+- Semantic HTML5 markup
+- Custom CSS
+- Mobile-first workflow
 
-### Lo que aprendí
+### What I learned
 
-LLegu a entender de una mejor manera el como colocar el comando div para realizar ciertas cajas y organizar la pagina. Tambien en que momentos podria colocar el boton de una manera mas interactiva la cual haga que la pagina se vea mucho mejor.
+I learned a better way to use `<div>` containers to create sections and organize the page. I also learned when to place buttons more interactively so the layout looks cleaner and matches the design better.
 
-Para ver cómo puede agregar fragmentos de código, consulte a continuación:
+To see how you can add code snippets, check below:
 
 ```html
-  <div class = "profile-card">
-<h1>Algún código HTML del que estoy orgulloso</h1>
-  </div>
+<div class="profile-card">
+  <h1>Some HTML code I'm proud of</h1>
+</div>
 ```
 ```css
 button:hover {
   color: hsl(0, 0%, 8%);
 }
 ```
-### Desarrollo continuo
 
-Tengo que seguir practicando tanto con el Css personalizable y con HTML5 para mejorar mi manera de trabajar al momento que vaya avanzando a otros proyectos, sabiendo utilizar todos los comandos de Css y para que sirven cada uno y lo mismo va para HTML5.
+### Continued development
 
-### Colaboración con IA
+I need to keep practicing both CSS and HTML5 to improve my workflow on future projects, learning the purpose of each CSS property and how to use HTML5 correctly.
 
-- ¿Qué herramientas utilizaste?
+### AI collaboration
 
-LLegue a utilizar GitHub Copilot ya que me resulto mucho mas sencillo aplicarlo desde visual.
+- What tools did you use?
 
-- ¿Cómo los usaste (por ejemplo, depurando, generando texto estándar, lluvia de ideas sobre soluciones)?
+I used GitHub Copilot because it was easier to apply from Visual Studio Code.
 
-Lo utilice para implementarme pequeñas pistas en ciertas partes del index o en el css. 
+- How did you use them (for example, debugging, generating standard text, brainstorming solutions)?
 
-- ¿Qué funcionó bien? ¿Qué no?
+I used it to get small hints for parts of the index.html and the CSS.
 
-Llegaron a funcionar bien el marcado de color de los botones ya que no sabia como realizarlo y lo que no funciono era otra funcion en los mismos botones que decidi excluir, ya que no se acercaba a la imagen de dicho proyecto.
+- What worked well? What didn't?
 
-## Autor
+The button color styling worked well because I did not know how to do it, and another button feature did not work so I decided to exclude it since it did not match the design of the project.
 
-- Sitio web - [Frontend Mentor](https://www.frontendmentor.io/?ref=challenge)
-- Mentor de frontend - [La_masorca🌽](https://www.frontendmentor.io/profile/agenteelite)
+## Author
 
-## Agradecimientos
+- Website - [Frontend Mentor](https://www.frontendmentor.io/?ref=challenge)
+- Frontend mentor - [La_masorca🌽](https://www.frontendmentor.io/profile/agenteelite)
 
-La verdad agradezco haber encontrado esta pagina ya que me ayuda a progresar en mi carrera y me servira de practica para futuros proyectos y lo cual agradezco de todo corazon.
+## Acknowledgements
+
+I am very grateful to have found this site because it helps me progress in my career and gives me practice for future projects. I appreciate it from the bottom of my heart.
